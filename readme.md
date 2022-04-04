@@ -4,3 +4,5 @@ git checkout "repo 이름"
 -> 로컬에서 작동 잘됩니다 
 
 git fetch upstream pull/ID/head:"BRANCHNAME 아무거나"
+
+한줄 추가++
