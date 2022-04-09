@@ -6,3 +6,4 @@ git checkout "repo 이름"
 git fetch upstream pull/ID/head:"BRANCHNAME 아무거나"
 
 한줄 추가++
+두줄 추가++
